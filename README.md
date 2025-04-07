@@ -11,7 +11,7 @@ AutoReload is a Chrome extension designed to automatically reload web pages at s
 ## Installation
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/AutoReload.git
+   git clone https://github.com/Acidooo/AutoReload.git
    ```
 2. Open Chrome and navigate to [chrome://extensions/](chrome://extensions/).
 3. Enable **Developer mode** in the top-right corner.
